@@ -20,4 +20,4 @@ yellow hint, green hint, blue hint purple hint,
 
 ### rows: each day
 
-# train some sort of bot on it? using word2vec? using bigrams or other ngrams? somehow parsing through related words and the neighboring word's neighboring words to find connections?
+train some sort of bot on it? using word2vec? using bigrams or other ngrams? somehow parsing through related words and the neighboring word's neighboring words to find connections?
