@@ -57,5 +57,9 @@ d = {'dates': dates,
      'purple_group': purple_group
      }
 
+with open('data/words.json', 'w', encoding='utf-8') as f:
+    json.dump(d, f, indent=2)
+
 pd.DataFrame(d).to_csv('data/words.csv', index=True)
+
 print("Data saved to data/words.csv")
