@@ -1,1 +1,6 @@
 data/
+.env
+.venv/
+all_labels.npy
+all_features.npy
+requirements.txt
